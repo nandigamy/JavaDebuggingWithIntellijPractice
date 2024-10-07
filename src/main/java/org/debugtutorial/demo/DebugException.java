@@ -7,7 +7,7 @@ public class DebugException {
 
     public static void main(String[] args) {
 
-        returnUnCaughtException();
+        //returnUnCaughtException();
 
         try {
             returnCaughtExceptionHandledInCurrentProgram();
